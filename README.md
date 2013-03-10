@@ -1,1 +1,1 @@
-Simples to learning design patterns
+Design patterns simples
